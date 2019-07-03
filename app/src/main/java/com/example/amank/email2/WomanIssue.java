@@ -10,8 +10,8 @@ public class WomanIssue extends AppCompatActivity {
 
     SharedPreferences pref;
 
-    private static String CONSUMER_KEY = "83ZrUaRwxu2LvPIOFyg4ru59I";
-    private static String CONSUMER_SECRET = "iyYGcDegc8CKUeajZz3a74wwBk5HAohXUdIpLF4DGNpou373xM";
+    private static String CONSUMER_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // Enter your consumer key
+    private static String CONSUMER_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"; // Enter your Consumer secret key
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
