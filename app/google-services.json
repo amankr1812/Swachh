@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328926725739",
+    "firebase_url": "https://swachh-8d081.firebaseio.com",
+    "project_id": "swachh-8d081",
+    "storage_bucket": "swachh-8d081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328926725739:android:6bb9cf86da444693",
+        "android_client_info": {
+          "package_name": "com.example.amank.email2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328926725739-1m3qa37jmc8vkdrog07gesj95ul68ulv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amank.email2",
+            "certificate_hash": "e5c3f724d1b189df1c2d5153f2e1053d781bcc9d"
+          }
+        },
+        {
+          "client_id": "328926725739-a2amm38j6ev7ijd62bt498o5v4qi0vcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmfhWyIds6j_bQGEOUazsX09FGxCgveBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328926725739-a2amm38j6ev7ijd62bt498o5v4qi0vcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
