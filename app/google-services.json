@@ -19,7 +19,7 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.amank.email2",
-            "certificate_hash": "e5c3f724d1b189df1c2d5153f2e1053d781bcc9d"
+            "certificate_hash": "XXXXXXXXXXXXXXXXXXXXXXXXXX" //Certificate Hash here
           }
         },
         {
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmfhWyIds6j_bQGEOUazsX09FGxCgveBw"
+          "current_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" //Enter your API Key
         }
       ],
       "services": {
